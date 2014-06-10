@@ -9,7 +9,6 @@ First, generate a compiled HACKT file &lt;_process.hacc_&gt;, from your _.hac_ s
 ```
 sh> haco <input.hac> <intermediate.haco>
 sh> haccreate <intermediate.haco> <process.hacc>
-
 ```
 
 Launch _hacchpsim_ or _hacprsim_:
