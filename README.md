@@ -55,3 +55,5 @@ insp.ShowStateTransition('<process.dot>', '<traces.out.events>', '<traces.out.st
 
 Right now, the module works only with HSE simulations.
 ![Sample frame from animation](./images/ACT_Inspect_static_demo.png?raw=true "ACT.Inspect.ShowStateTransition() output")
+
+During the visualization, latest event node is highlighted with the darkest green. As events progress (and time as well), nodes that are not visited fade away. The number inside a node tells how many times that event has occured.
