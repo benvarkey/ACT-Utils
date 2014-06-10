@@ -54,3 +54,4 @@ insp.ShowStateTransition('<process.dot>', '<traces.out.events>', '<traces.out.st
 ```
 
 Right now, the module works only with HSE simulations.
+![Sample frame from animation](./images/ACT_Inspect_static_demo.png?raw=true "ACT.Inspect.ShowStateTransition() output")
